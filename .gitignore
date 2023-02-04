@@ -16,3 +16,6 @@ shapenet2kubric/shapenet2kubric.log
 examples/KuBasic/Cone/*
 Dockerfile
 output_tmp/*
+Temp/*
+downloads/*
+dataset/*/*
